@@ -16,6 +16,9 @@ namespace YazilimBakimiAPI.Data
         }
 
         public DbSet<Users> Users { get; set; }
+        public DbSet<City> Cities { get; set; }
+
+        public DbSet<Photo> Photos { get; set; }
 
     }
 }

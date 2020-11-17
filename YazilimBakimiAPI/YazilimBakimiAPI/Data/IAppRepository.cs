@@ -12,7 +12,7 @@ namespace YazilimBakimiAPI.Data
         void Delete<T>(T entity) where T : class;
         bool SaveAll();
         List<City> GetCities();
-
+        City GetCityById(int cityId);
 
     }
 }

@@ -9,7 +9,6 @@ C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\
 C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.csprojAssemblyReference.cache
 C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.AssemblyInfoInputs.cache
 C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.AssemblyInfo.cs
-C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.csproj.CoreCompileInputs.cache
 C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.RazorAssemblyInfo.cache
 C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.RazorAssemblyInfo.cs
 C:\Users\abdul\Desktop\Yazilim Bakimi\Yazilim_Bakimi_Proje_API\YazilimBakimiAPI\YazilimBakimiAPI\obj\Debug\netcoreapp2.1\YazilimBakimiAPI.RazorTargetAssemblyInfo.cache
